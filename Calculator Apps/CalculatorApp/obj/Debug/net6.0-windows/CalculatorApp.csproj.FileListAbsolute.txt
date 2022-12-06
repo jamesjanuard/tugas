@@ -1,0 +1,36 @@
+C:\GitHub\Document\CalculatorApp-Using-DelegateAndEven\CalculatorApp\bin\Debug\net6.0-windows\CalculatorApp.exe
+C:\GitHub\Document\CalculatorApp-Using-DelegateAndEven\CalculatorApp\bin\Debug\net6.0-windows\CalculatorApp.deps.json
+C:\GitHub\Document\CalculatorApp-Using-DelegateAndEven\CalculatorApp\bin\Debug\net6.0-windows\CalculatorApp.runtimeconfig.json
+C:\GitHub\Document\CalculatorApp-Using-DelegateAndEven\CalculatorApp\bin\Debug\net6.0-windows\CalculatorApp.dll
+C:\GitHub\Document\CalculatorApp-Using-DelegateAndEven\CalculatorApp\bin\Debug\net6.0-windows\CalculatorApp.pdb
+C:\GitHub\Document\CalculatorApp-Using-DelegateAndEven\CalculatorApp\obj\Debug\net6.0-windows\CalculatorApp.csproj.AssemblyReference.cache
+C:\GitHub\Document\CalculatorApp-Using-DelegateAndEven\CalculatorApp\obj\Debug\net6.0-windows\CalculatorApp.FormCalculatorApp.resources
+C:\GitHub\Document\CalculatorApp-Using-DelegateAndEven\CalculatorApp\obj\Debug\net6.0-windows\CalculatorApp.FormHasilPerhitungan.resources
+C:\GitHub\Document\CalculatorApp-Using-DelegateAndEven\CalculatorApp\obj\Debug\net6.0-windows\CalculatorApp.csproj.GenerateResource.cache
+C:\GitHub\Document\CalculatorApp-Using-DelegateAndEven\CalculatorApp\obj\Debug\net6.0-windows\CalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\Document\CalculatorApp-Using-DelegateAndEven\CalculatorApp\obj\Debug\net6.0-windows\CalculatorApp.AssemblyInfoInputs.cache
+C:\GitHub\Document\CalculatorApp-Using-DelegateAndEven\CalculatorApp\obj\Debug\net6.0-windows\CalculatorApp.AssemblyInfo.cs
+C:\GitHub\Document\CalculatorApp-Using-DelegateAndEven\CalculatorApp\obj\Debug\net6.0-windows\CalculatorApp.csproj.CoreCompileInputs.cache
+C:\GitHub\Document\CalculatorApp-Using-DelegateAndEven\CalculatorApp\obj\Debug\net6.0-windows\CalculatorApp.dll
+C:\GitHub\Document\CalculatorApp-Using-DelegateAndEven\CalculatorApp\obj\Debug\net6.0-windows\refint\CalculatorApp.dll
+C:\GitHub\Document\CalculatorApp-Using-DelegateAndEven\CalculatorApp\obj\Debug\net6.0-windows\CalculatorApp.pdb
+C:\GitHub\Document\CalculatorApp-Using-DelegateAndEven\CalculatorApp\obj\Debug\net6.0-windows\CalculatorApp.genruntimeconfig.cache
+C:\GitHub\Document\CalculatorApp-Using-DelegateAndEven\CalculatorApp\obj\Debug\net6.0-windows\ref\CalculatorApp.dll
+C:\GitHub\Document\Tugas Calculator Apps\CalculatorApp\bin\Debug\net6.0-windows\CalculatorApp.exe
+C:\GitHub\Document\Tugas Calculator Apps\CalculatorApp\bin\Debug\net6.0-windows\CalculatorApp.deps.json
+C:\GitHub\Document\Tugas Calculator Apps\CalculatorApp\bin\Debug\net6.0-windows\CalculatorApp.runtimeconfig.json
+C:\GitHub\Document\Tugas Calculator Apps\CalculatorApp\bin\Debug\net6.0-windows\CalculatorApp.dll
+C:\GitHub\Document\Tugas Calculator Apps\CalculatorApp\bin\Debug\net6.0-windows\CalculatorApp.pdb
+C:\GitHub\Document\Tugas Calculator Apps\CalculatorApp\obj\Debug\net6.0-windows\CalculatorApp.csproj.AssemblyReference.cache
+C:\GitHub\Document\Tugas Calculator Apps\CalculatorApp\obj\Debug\net6.0-windows\CalculatorApp.FormCalculatorApp.resources
+C:\GitHub\Document\Tugas Calculator Apps\CalculatorApp\obj\Debug\net6.0-windows\CalculatorApp.FormHasilPerhitungan.resources
+C:\GitHub\Document\Tugas Calculator Apps\CalculatorApp\obj\Debug\net6.0-windows\CalculatorApp.csproj.GenerateResource.cache
+C:\GitHub\Document\Tugas Calculator Apps\CalculatorApp\obj\Debug\net6.0-windows\CalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\Document\Tugas Calculator Apps\CalculatorApp\obj\Debug\net6.0-windows\CalculatorApp.AssemblyInfoInputs.cache
+C:\GitHub\Document\Tugas Calculator Apps\CalculatorApp\obj\Debug\net6.0-windows\CalculatorApp.AssemblyInfo.cs
+C:\GitHub\Document\Tugas Calculator Apps\CalculatorApp\obj\Debug\net6.0-windows\CalculatorApp.csproj.CoreCompileInputs.cache
+C:\GitHub\Document\Tugas Calculator Apps\CalculatorApp\obj\Debug\net6.0-windows\CalculatorApp.dll
+C:\GitHub\Document\Tugas Calculator Apps\CalculatorApp\obj\Debug\net6.0-windows\refint\CalculatorApp.dll
+C:\GitHub\Document\Tugas Calculator Apps\CalculatorApp\obj\Debug\net6.0-windows\CalculatorApp.pdb
+C:\GitHub\Document\Tugas Calculator Apps\CalculatorApp\obj\Debug\net6.0-windows\CalculatorApp.genruntimeconfig.cache
+C:\GitHub\Document\Tugas Calculator Apps\CalculatorApp\obj\Debug\net6.0-windows\ref\CalculatorApp.dll
